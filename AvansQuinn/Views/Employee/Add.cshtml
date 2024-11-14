@@ -1,0 +1,67 @@
+﻿@model ICollection<Domain.Product?>
+
+@{
+    ViewData["Title"] = "Add Mealbox";
+}
+
+<div class="container pb-4">
+    <div class="row m-5 no-gutters shadow-lg">
+        <div class="col-md-6 d-none d-md-block p-0">
+            <img alt="nice burgir" src="/images/icon2.jpg" class="img-fluid add-image" style="min-height:100%;"/>
+        </div>
+        <div class="col-md-6 bg-white p-5">
+            <h2 class="pb-3 form-h2">Mealbox Toevoegen</h2>
+            <div class="form-style">
+                <form method="post" asp-controller="Employee" asp-action="Add">
+                    <div class="form-group pb-3">
+                        <label>Naam</label>
+                        <input placeholder="Naam" class="form-control" type="text" id="name" name="name" required/>
+                    </div>
+                    <div class="form-group pb-3">
+                        <label>Minimale ophaal datum</label>
+                        <input step="any" class="form-control" id="pickUpTimeMin" name="pickUpTimeMin" type="datetime-local" min=@DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss").Replace(' ', 'T') max=@DateTime.Now.AddDays(2).ToString("yyyy-MM-dd HH:mm:ss").Replace(' ', 'T') required>
+                    </div>
+                    <div class="form-group pb-3">
+                        <label>Maximale ophaal datum</label>
+                        <input step="any" class="form-control" id="pickUpTimeMax" name="pickUpTimeMax" type="datetime-local" min=@DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss").Replace(' ', 'T') max=@DateTime.Now.AddDays(2).ToString("yyyy-MM-dd HH:mm:ss").Replace(' ', 'T') required>
+                    </div>
+                    <div class="form-group pb-3">
+                        <label>Prijs</label>
+                        <input type="number" name="price" id="price" min="0" step="any" placeholder="0.00" required/>
+                    </div>
+                    <div class="form-group pb-3">
+                        <label>Type Mealbox</label>
+                        <select class="form-select" name="type" id="type" required>
+                            <option value="Brood">Brood</option>
+                            <option value="Drinken">Drinken</option>
+                            <option value="Avondmaaltijd">Avondmaaltijd</option>
+                            <option value="Luxemaaltijd">Luxemaaltijd</option>
+                            <option value="Budgetmeal">Budgetmeal</option>
+                            <option value="Snoep">Snoep</option>
+                            <option value="Alcoholische drank">Alcoholische drank</option>
+                            <option value="Bewust eten">Bewust eten</option>
+                            <option value="Zuivel producten">Zuivel producten</option>
+                            <option value="Toetjes">Toetjes</option>
+                        </select>
+                    </div>
+                    <div class="form-group pb-3">
+                        <label>Producten</label>
+                        <select class="form-select" name="products" id="products" multiple="multiple" required>
+                            @foreach (var product in Model)
+                            {
+                                if (product != null)
+                                {
+                                    <option value=@product.Id>@product.Name</option>
+                                }
+                            }
+                        </select>
+                    </div>
+                    <div class="pb-2">
+                        <input style="background-color: #183446; font-weight: bolder; color: white; border-radius: 5px" class="form-control" type="submit" value="Submit" required/>
+                    </div>
+                </form>
+            </div>
+
+        </div>
+    </div>
+</div>

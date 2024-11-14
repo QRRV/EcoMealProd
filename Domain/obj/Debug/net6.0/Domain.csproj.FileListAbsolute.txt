@@ -1,0 +1,60 @@
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Domain/bin/Debug/net6.0/Domain.deps.json
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Domain/bin/Debug/net6.0/Domain.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Domain/bin/Debug/net6.0/Domain.pdb
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Domain/obj/Debug/net6.0/Domain.csproj.AssemblyReference.cache
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Domain/obj/Debug/net6.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Domain/obj/Debug/net6.0/Domain.AssemblyInfoInputs.cache
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Domain/obj/Debug/net6.0/Domain.AssemblyInfo.cs
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Domain/obj/Debug/net6.0/Domain.csproj.CoreCompileInputs.cache
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Domain/obj/Debug/net6.0/Domain.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Domain/obj/Debug/net6.0/refint/Domain.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Domain/obj/Debug/net6.0/Domain.pdb
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Domain/obj/Debug/net6.0/ref/Domain.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Domain/bin/Debug/net6.0/Domain.runtimeconfig.json
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Domain/obj/Debug/net6.0/Domain.genruntimeconfig.cache
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Domain/obj/Debug/net6.0/Domain.sourcelink.json
+/home/qrrv/Projects/School/2A-QuinnVerschoor - IVT2-1-MaaltijdenApp/AvansQuinn/Domain/bin/Debug/net6.0/Domain.deps.json
+/home/qrrv/Projects/School/2A-QuinnVerschoor - IVT2-1-MaaltijdenApp/AvansQuinn/Domain/bin/Debug/net6.0/Domain.runtimeconfig.json
+/home/qrrv/Projects/School/2A-QuinnVerschoor - IVT2-1-MaaltijdenApp/AvansQuinn/Domain/bin/Debug/net6.0/Domain.dll
+/home/qrrv/Projects/School/2A-QuinnVerschoor - IVT2-1-MaaltijdenApp/AvansQuinn/Domain/bin/Debug/net6.0/Domain.pdb
+/home/qrrv/Projects/School/2A-QuinnVerschoor - IVT2-1-MaaltijdenApp/AvansQuinn/Domain/obj/Debug/net6.0/Domain.csproj.AssemblyReference.cache
+/home/qrrv/Projects/School/2A-QuinnVerschoor - IVT2-1-MaaltijdenApp/AvansQuinn/Domain/obj/Debug/net6.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/qrrv/Projects/School/2A-QuinnVerschoor - IVT2-1-MaaltijdenApp/AvansQuinn/Domain/obj/Debug/net6.0/Domain.AssemblyInfoInputs.cache
+/home/qrrv/Projects/School/2A-QuinnVerschoor - IVT2-1-MaaltijdenApp/AvansQuinn/Domain/obj/Debug/net6.0/Domain.AssemblyInfo.cs
+/home/qrrv/Projects/School/2A-QuinnVerschoor - IVT2-1-MaaltijdenApp/AvansQuinn/Domain/obj/Debug/net6.0/Domain.csproj.CoreCompileInputs.cache
+/home/qrrv/Projects/School/2A-QuinnVerschoor - IVT2-1-MaaltijdenApp/AvansQuinn/Domain/obj/Debug/net6.0/Domain.sourcelink.json
+/home/qrrv/Projects/School/2A-QuinnVerschoor - IVT2-1-MaaltijdenApp/AvansQuinn/Domain/obj/Debug/net6.0/Domain.dll
+/home/qrrv/Projects/School/2A-QuinnVerschoor - IVT2-1-MaaltijdenApp/AvansQuinn/Domain/obj/Debug/net6.0/refint/Domain.dll
+/home/qrrv/Projects/School/2A-QuinnVerschoor - IVT2-1-MaaltijdenApp/AvansQuinn/Domain/obj/Debug/net6.0/Domain.pdb
+/home/qrrv/Projects/School/2A-QuinnVerschoor - IVT2-1-MaaltijdenApp/AvansQuinn/Domain/obj/Debug/net6.0/Domain.genruntimeconfig.cache
+/home/qrrv/Projects/School/2A-QuinnVerschoor - IVT2-1-MaaltijdenApp/AvansQuinn/Domain/obj/Debug/net6.0/ref/Domain.dll
+/home/qrrv/Projects/School/EcoMeal/Domain/bin/Debug/net6.0/Domain.deps.json
+/home/qrrv/Projects/School/EcoMeal/Domain/bin/Debug/net6.0/Domain.runtimeconfig.json
+/home/qrrv/Projects/School/EcoMeal/Domain/bin/Debug/net6.0/Domain.dll
+/home/qrrv/Projects/School/EcoMeal/Domain/bin/Debug/net6.0/Domain.pdb
+/home/qrrv/Projects/School/EcoMeal/Domain/obj/Debug/net6.0/Domain.csproj.AssemblyReference.cache
+/home/qrrv/Projects/School/EcoMeal/Domain/obj/Debug/net6.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/qrrv/Projects/School/EcoMeal/Domain/obj/Debug/net6.0/Domain.AssemblyInfoInputs.cache
+/home/qrrv/Projects/School/EcoMeal/Domain/obj/Debug/net6.0/Domain.AssemblyInfo.cs
+/home/qrrv/Projects/School/EcoMeal/Domain/obj/Debug/net6.0/Domain.csproj.CoreCompileInputs.cache
+/home/qrrv/Projects/School/EcoMeal/Domain/obj/Debug/net6.0/Domain.sourcelink.json
+/home/qrrv/Projects/School/EcoMeal/Domain/obj/Debug/net6.0/Domain.dll
+/home/qrrv/Projects/School/EcoMeal/Domain/obj/Debug/net6.0/refint/Domain.dll
+/home/qrrv/Projects/School/EcoMeal/Domain/obj/Debug/net6.0/Domain.pdb
+/home/qrrv/Projects/School/EcoMeal/Domain/obj/Debug/net6.0/Domain.genruntimeconfig.cache
+/home/qrrv/Projects/School/EcoMeal/Domain/obj/Debug/net6.0/ref/Domain.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Domain/bin/Debug/net6.0/Domain.deps.json
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Domain/bin/Debug/net6.0/Domain.runtimeconfig.json
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Domain/bin/Debug/net6.0/Domain.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Domain/bin/Debug/net6.0/Domain.pdb
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Domain/obj/Debug/net6.0/Domain.csproj.AssemblyReference.cache
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Domain/obj/Debug/net6.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Domain/obj/Debug/net6.0/Domain.AssemblyInfoInputs.cache
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Domain/obj/Debug/net6.0/Domain.AssemblyInfo.cs
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Domain/obj/Debug/net6.0/Domain.csproj.CoreCompileInputs.cache
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Domain/obj/Debug/net6.0/Domain.sourcelink.json
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Domain/obj/Debug/net6.0/Domain.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Domain/obj/Debug/net6.0/refint/Domain.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Domain/obj/Debug/net6.0/Domain.pdb
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Domain/obj/Debug/net6.0/Domain.genruntimeconfig.cache
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Domain/obj/Debug/net6.0/ref/Domain.dll

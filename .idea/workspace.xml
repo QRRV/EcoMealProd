@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3e7ef6f1-545e-47ea-a1ed-f7c75ef14a70" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/ApplicationServices/ApplicationServices.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ApplicationServices/MealBoxServices.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AvansQuinn.sln" beforeDir="false" afterPath="$PROJECT_DIR$/AvansQuinn.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AvansQuinn/Controllers/AccountController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AvansQuinn/Controllers/AccountController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AvansQuinn/Controllers/DetailsController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AvansQuinn/Controllers/DetailsController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AvansQuinn/Controllers/EmployeeController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AvansQuinn/Controllers/EmployeeController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AvansQuinn/Controllers/HomeController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AvansQuinn/Controllers/HomeController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AvansQuinn/Controllers/StudentController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AvansQuinn/Controllers/StudentController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AvansQuinn/MealBoxApp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/AvansQuinn/MealBoxApp.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AvansQuinn/Models/ErrorViewModel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AvansQuinn/Models/ErrorViewModel.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AvansQuinn/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AvansQuinn/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AvansQuinn/Views/Account/Login.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/AvansQuinn/Views/Account/Login.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AvansQuinn/Views/Details/Details.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/AvansQuinn/Views/Details/Details.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AvansQuinn/Views/Details/DetailsEmployee.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/AvansQuinn/Views/Details/DetailsEmployee.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AvansQuinn/Views/Employee/Add.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/AvansQuinn/Views/Employee/Add.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AvansQuinn/Views/Employee/Edit.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/AvansQuinn/Views/Employee/Edit.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AvansQuinn/Views/Home/Index.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/AvansQuinn/Views/Home/Index.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AvansQuinn/Views/Home/IndexEmployees.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/AvansQuinn/Views/Home/IndexEmployees.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AvansQuinn/Views/Shared/Error.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/AvansQuinn/Views/Shared/Error.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AvansQuinn/Views/Shared/_Layout.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/AvansQuinn/Views/Shared/_Layout.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AvansQuinn/Views/Shared/_Layout.cshtml.css" beforeDir="false" afterPath="$PROJECT_DIR$/AvansQuinn/Views/Shared/_Layout.cshtml.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AvansQuinn/Views/Shared/_ValidationScriptsPartial.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/AvansQuinn/Views/Shared/_ValidationScriptsPartial.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AvansQuinn/Views/Student/Reserved.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/AvansQuinn/Views/Student/Reserved.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AvansQuinn/Views/_ViewImports.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/AvansQuinn/Views/_ViewImports.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AvansQuinn/Views/_ViewStart.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/AvansQuinn/Views/_ViewStart.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AvansQuinn/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/AvansQuinn/appsettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AvansQuinn/wwwroot/css/site.css" beforeDir="false" afterPath="$PROJECT_DIR$/AvansQuinn/wwwroot/css/site.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AvansQuinn/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css" beforeDir="false" afterPath="$PROJECT_DIR$/AvansQuinn/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AvansQuinn/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css" beforeDir="false" afterPath="$PROJECT_DIR$/AvansQuinn/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AvansQuinn/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css" beforeDir="false" afterPath="$PROJECT_DIR$/AvansQuinn/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AvansQuinn/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css" beforeDir="false" afterPath="$PROJECT_DIR$/AvansQuinn/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AvansQuinn/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css" beforeDir="false" afterPath="$PROJECT_DIR$/AvansQuinn/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AvansQuinn/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css" beforeDir="false" afterPath="$PROJECT_DIR$/AvansQuinn/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AvansQuinn/wwwroot/lib/bootstrap/dist/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/AvansQuinn/wwwroot/lib/bootstrap/dist/css/bootstrap.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AvansQuinn/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css" beforeDir="false" afterPath="$PROJECT_DIR$/AvansQuinn/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AvansQuinn/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/AvansQuinn/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AvansQuinn/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js" beforeDir="false" afterPath="$PROJECT_DIR$/AvansQuinn/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AvansQuinn/wwwroot/lib/bootstrap/dist/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/AvansQuinn/wwwroot/lib/bootstrap/dist/js/bootstrap.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AvansQuinn/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js" beforeDir="false" afterPath="$PROJECT_DIR$/AvansQuinn/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AvansQuinn/wwwroot/lib/jquery-validation/dist/additional-methods.js" beforeDir="false" afterPath="$PROJECT_DIR$/AvansQuinn/wwwroot/lib/jquery-validation/dist/additional-methods.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AvansQuinn/wwwroot/lib/jquery-validation/dist/jquery.validate.js" beforeDir="false" afterPath="$PROJECT_DIR$/AvansQuinn/wwwroot/lib/jquery-validation/dist/jquery.validate.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AvansQuinn/wwwroot/lib/jquery/dist/jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/AvansQuinn/wwwroot/lib/jquery/dist/jquery.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Domain.Services/Domain.Services.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Domain.Services/Domain.Services.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Domain.Services/ICanteenRepository.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Domain.Services/ICanteenRepository.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Domain/Canteen.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Domain/Canteen.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Domain/Domain.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Domain/Domain.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Domain/Employee.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Domain/Employee.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Domain/Login.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Domain/Login.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Domain/MealBox.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Domain/MealBox.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Domain/Mealbox_Product.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Domain/Mealbox_Product.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Domain/Product.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Domain/Product.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Domain/Student.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Domain/Student.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MealBoxAPI/Controllers/ReservationController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MealBoxAPI/Controllers/ReservationController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MealBoxAPI/MealBoxAPI.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/MealBoxAPI/MealBoxAPI.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MealBoxAPI/Models/GraphQLTypes.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MealBoxAPI/Models/GraphQLTypes.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MealBoxAPI/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MealBoxAPI/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MealBoxAPI/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/MealBoxAPI/appsettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Persistence/CanteenRepository.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Persistence/CanteenRepository.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Persistence/EmployeeRepository.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Persistence/EmployeeRepository.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Persistence/MealBoxProductRepository.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Persistence/MealBoxProductRepository.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Persistence/MealBoxRepository.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Persistence/MealBoxRepository.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Persistence/Migrations/20221029151550_seeddata.Designer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Persistence/Migrations/20221029151550_seeddata.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Persistence/Migrations/SqlServerDbModelSnapshot.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Persistence/Migrations/SqlServerIdentityDbMigrations/20221029152303_seeddata.Designer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Persistence/Migrations/SqlServerIdentityDbMigrations/20221029152303_seeddata.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Persistence/Migrations/SqlServerIdentityDbMigrations/SqlServerIdentityDbModelSnapshot.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Persistence/Persistence.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Persistence/Persistence.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Persistence/ProductRepository.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Persistence/ProductRepository.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Persistence/SQLServerDb.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Persistence/SQLServerDb.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Persistence/SqlServerIdentityDb.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Persistence/SqlServerIdentityDb.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Persistence/StudentRepository.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Persistence/StudentRepository.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Persistence/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/Persistence/appsettings.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2bEWw5trdKAWlVuk2heuN48gb0M" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/School_Avans/Vakken/SSWF/AvansQuinn",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3e7ef6f1-545e-47ea-a1ed-f7c75ef14a70" name="Changes" comment="" />
+      <created>1705780954044</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1705780954044</updated>
+      <workItem from="1705780955044" duration="8000" />
+    </task>
+    <servers />
+  </component>
+</project>

@@ -1,0 +1,11 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=f0b9295f_002Da55f_002D40e1_002Daf87_002Dedc6f251d0a7/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="All tests from &amp;lt;Core.Domain.Services.Tests&amp;gt;" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::004E479F-A49F-4CE7-A9CB-D5E504EF6886::net6.0::Core.Domain.Services.Tests.MealBoxRepositoryTests&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::004E479F-A49F-4CE7-A9CB-D5E504EF6886::net6.0::Core.Domain.Services.Tests.CanteenRepositoryTests&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::004E479F-A49F-4CE7-A9CB-D5E504EF6886::net6.0::Core.Domain.Services.Tests.EmployeeRepositoryTests&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::004E479F-A49F-4CE7-A9CB-D5E504EF6886::net6.0::Core.Domain.Services.Tests.ProductRepositoryTests&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::004E479F-A49F-4CE7-A9CB-D5E504EF6886::net6.0::Core.Domain.Services.Tests.MealBoxProductRepositoryTests&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::004E479F-A49F-4CE7-A9CB-D5E504EF6886::net6.0::Core.Domain.Services.Tests.StudentRepositoryTests&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

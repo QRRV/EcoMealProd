@@ -1,0 +1,583 @@
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/CoverletSourceRootsMapping
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/testhost.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/testhost.exe
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/Microsoft.TestPlatform.PlatformAbstractions.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/xunit.runner.reporters.netcoreapp10.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/xunit.runner.utility.netcoreapp10.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/Core.Domain.Services.Tests.deps.json
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/Core.Domain.Services.Tests.runtimeconfig.json
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/Core.Domain.Services.Tests.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/Core.Domain.Services.Tests.pdb
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/Castle.Core.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/GraphQL.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/GraphQLParser.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/GreenDonut.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/HotChocolate.Abstractions.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/HotChocolate.AspNetCore.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/HotChocolate.AspNetCore.Abstractions.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/HotChocolate.AspNetCore.Playground.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/HotChocolate.Execution.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/HotChocolate.Fetching.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/HotChocolate.Language.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/HotChocolate.Language.SyntaxTree.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/HotChocolate.Language.Utf8.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/HotChocolate.Language.Visitors.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/HotChocolate.Server.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/HotChocolate.Subscriptions.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/HotChocolate.Subscriptions.InMemory.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/HotChocolate.Types.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/HotChocolate.Types.CursorPagination.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/HotChocolate.Types.Mutations.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/HotChocolate.Types.OffsetPagination.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/HotChocolate.Types.Scalars.Upload.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/HotChocolate.Utilities.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/HotChocolate.Utilities.Introspection.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/HotChocolate.Validation.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/Microsoft.Bcl.AsyncInterfaces.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/Microsoft.Extensions.Configuration.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/Microsoft.Extensions.Configuration.Abstractions.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/Microsoft.Extensions.Configuration.FileExtensions.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/Microsoft.Extensions.Configuration.Json.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/Microsoft.Extensions.DiagnosticAdapter.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/Microsoft.Extensions.FileProviders.Abstractions.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/Microsoft.Extensions.FileProviders.Physical.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/Microsoft.Extensions.FileSystemGlobbing.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/Microsoft.Extensions.Identity.Core.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/Microsoft.Extensions.Identity.Stores.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/Microsoft.Extensions.Primitives.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/Microsoft.TestPlatform.CoreUtilities.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/Microsoft.TestPlatform.CommunicationUtilities.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/Microsoft.TestPlatform.CrossPlatEngine.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/Microsoft.TestPlatform.Utilities.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/Microsoft.VisualStudio.TestPlatform.Common.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/Moq.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/Newtonsoft.Json.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/NuGet.Frameworks.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/nunit.framework.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/System.Drawing.Common.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/System.Runtime.Caching.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/System.Security.Permissions.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/System.Text.Encodings.Web.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/System.Text.Json.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/System.Windows.Extensions.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/xunit.abstractions.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/xunit.assert.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/xunit.core.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/xunit.execution.dotnet.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/cs/Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/cs/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/de/Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/de/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/es/Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/es/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/fr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/fr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/it/Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/it/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/ja/Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/ja/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/ko/Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/ko/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/pl/Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/pl/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/pt-BR/Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/pt-BR/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/ru/Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/ru/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/tr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/tr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/zh-Hans/Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/zh-Hant/Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/cs/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/cs/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/cs/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/de/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/de/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/de/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/es/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/es/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/es/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/fr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/fr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/fr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/it/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/it/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/it/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/ja/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/ja/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/ja/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/ko/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/ko/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/ko/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/pl/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/pl/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/pl/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/pt-BR/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/pt-BR/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/pt-BR/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/ru/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/ru/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/ru/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/tr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/tr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/tr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/zh-Hans/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/zh-Hans/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/runtimes/browser/lib/net6.0/System.Text.Encodings.Web.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/Domain.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/Domain.Services.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/Domain.Services.pdb
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/Domain.pdb
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/obj/Debug/net6.0/Core.Domain.Services.Tests.csproj.AssemblyReference.cache
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/obj/Debug/net6.0/Core.Domain.Services.Tests.GeneratedMSBuildEditorConfig.editorconfig
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/obj/Debug/net6.0/Core.Domain.Services.Tests.AssemblyInfoInputs.cache
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/obj/Debug/net6.0/Core.Domain.Services.Tests.AssemblyInfo.cs
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/obj/Debug/net6.0/Core.Domain.Services.Tests.csproj.CoreCompileInputs.cache
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/obj/Debug/net6.0/Core.Domain.Services.Tests.sourcelink.json
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/obj/Debug/net6.0/Core.Domain.Services.Tests.csproj.CopyComplete
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/obj/Debug/net6.0/Core.Domain.Services.Tests.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/obj/Debug/net6.0/refint/Core.Domain.Services.Tests.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/obj/Debug/net6.0/Core.Domain.Services.Tests.pdb
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/obj/Debug/net6.0/Core.Domain.Services.Tests.genruntimeconfig.cache
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/obj/Debug/net6.0/ref/Core.Domain.Services.Tests.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/MealBoxApp.deps.json
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/MealBoxApp.runtimeconfig.json
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/appsettings.Development.json
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/MealBoxApp.staticwebassets.runtime.json
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/MealBoxApp.exe
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/appsettings.json
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/ApplicationServices.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/MealBoxApp.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/Persistence.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/ApplicationServices.pdb
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/MealBoxApp.pdb
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Core.Domain.Services.Tests/bin/Debug/net6.0/Persistence.pdb
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/CoverletSourceRootsMapping
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/appsettings.Development.json
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/xunit.runner.reporters.netcoreapp10.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/xunit.runner.utility.netcoreapp10.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/MealBoxApp.deps.json
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/MealBoxApp.runtimeconfig.json
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/MealBoxApp.staticwebassets.runtime.json
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/MealBoxApp
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/Microsoft.TestPlatform.PlatformAbstractions.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/appsettings.json
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/Core.Domain.Services.Tests.deps.json
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/Core.Domain.Services.Tests.runtimeconfig.json
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/Core.Domain.Services.Tests.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/Core.Domain.Services.Tests.pdb
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/Castle.Core.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/GraphQL.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/GraphQLParser.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/GreenDonut.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/HotChocolate.Abstractions.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/HotChocolate.AspNetCore.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/HotChocolate.AspNetCore.Abstractions.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/HotChocolate.AspNetCore.Playground.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/HotChocolate.Execution.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/HotChocolate.Fetching.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/HotChocolate.Language.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/HotChocolate.Language.SyntaxTree.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/HotChocolate.Language.Utf8.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/HotChocolate.Language.Visitors.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/HotChocolate.Server.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/HotChocolate.Subscriptions.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/HotChocolate.Subscriptions.InMemory.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/HotChocolate.Types.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/HotChocolate.Types.CursorPagination.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/HotChocolate.Types.Mutations.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/HotChocolate.Types.OffsetPagination.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/HotChocolate.Types.Scalars.Upload.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/HotChocolate.Utilities.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/HotChocolate.Utilities.Introspection.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/HotChocolate.Validation.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/Microsoft.Bcl.AsyncInterfaces.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/Microsoft.VisualStudio.CodeCoverage.Shim.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/Microsoft.Extensions.Configuration.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/Microsoft.Extensions.Configuration.FileExtensions.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/Microsoft.Extensions.Configuration.Json.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/Microsoft.Extensions.DiagnosticAdapter.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/Microsoft.Extensions.FileProviders.Abstractions.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/Microsoft.Extensions.FileProviders.Physical.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/Microsoft.Extensions.FileSystemGlobbing.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/Microsoft.Extensions.Identity.Core.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/Microsoft.Extensions.Identity.Stores.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/Microsoft.Extensions.Primitives.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/Microsoft.TestPlatform.CoreUtilities.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/Microsoft.TestPlatform.CommunicationUtilities.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/Microsoft.TestPlatform.CrossPlatEngine.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/Microsoft.TestPlatform.Utilities.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/Microsoft.VisualStudio.TestPlatform.Common.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/testhost.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/Moq.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/Newtonsoft.Json.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/NuGet.Frameworks.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/nunit.framework.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/System.Drawing.Common.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/System.Runtime.Caching.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/System.Security.Permissions.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/System.Text.Encodings.Web.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/System.Text.Json.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/System.Windows.Extensions.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/xunit.abstractions.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/xunit.assert.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/xunit.core.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/xunit.execution.dotnet.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/cs/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/cs/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/de/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/de/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/es/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/es/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/fr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/fr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/it/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/it/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/ja/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/ja/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/ko/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/ko/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/pl/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/pl/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/pt-BR/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/pt-BR/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/ru/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/ru/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/tr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/tr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/zh-Hans/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/zh-Hant/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/cs/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/cs/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/cs/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/de/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/de/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/de/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/es/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/es/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/es/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/fr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/fr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/fr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/it/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/it/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/it/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/ja/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/ja/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/ja/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/ko/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/ko/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/ko/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/pl/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/pl/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/pl/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/pt-BR/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/pt-BR/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/pt-BR/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/ru/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/ru/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/ru/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/tr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/tr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/tr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/zh-Hans/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/zh-Hans/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/runtimes/browser/lib/net6.0/System.Text.Encodings.Web.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/ApplicationServices.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/Domain.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/Domain.Services.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/MealBoxApp.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/Persistence.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/ApplicationServices.pdb
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/MealBoxApp.pdb
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/Domain.Services.pdb
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/Domain.pdb
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/Persistence.pdb
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/obj/Debug/net6.0/Core.Domain.Services.Tests.csproj.AssemblyReference.cache
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/obj/Debug/net6.0/Core.Domain.Services.Tests.GeneratedMSBuildEditorConfig.editorconfig
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/obj/Debug/net6.0/Core.Domain.Services.Tests.AssemblyInfoInputs.cache
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/obj/Debug/net6.0/Core.Domain.Services.Tests.AssemblyInfo.cs
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/obj/Debug/net6.0/Core.Domain.Services.Tests.csproj.CoreCompileInputs.cache
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/obj/Debug/net6.0/Core.Domain.Services.Tests.sourcelink.json
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/obj/Debug/net6.0/Core.Dom.3BAF5F86.Up2Date
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/obj/Debug/net6.0/Core.Domain.Services.Tests.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/obj/Debug/net6.0/refint/Core.Domain.Services.Tests.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/obj/Debug/net6.0/Core.Domain.Services.Tests.pdb
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/obj/Debug/net6.0/Core.Domain.Services.Tests.genruntimeconfig.cache
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/obj/Debug/net6.0/ref/Core.Domain.Services.Tests.dll
+/home/qrrv/Projects/School/EcoMeal/Core.Domain.Services.Tests/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.InMemory.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/CoverletSourceRootsMapping
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/appsettings.Development.json
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/xunit.runner.reporters.netcoreapp10.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/xunit.runner.utility.netcoreapp10.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/MealBoxApp.deps.json
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/MealBoxApp.runtimeconfig.json
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/MealBoxApp.staticwebassets.runtime.json
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/MealBoxApp
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/Microsoft.TestPlatform.PlatformAbstractions.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/appsettings.json
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/Core.Domain.Services.Tests.deps.json
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/Core.Domain.Services.Tests.runtimeconfig.json
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/Core.Domain.Services.Tests.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/Core.Domain.Services.Tests.pdb
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/Castle.Core.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/GraphQL.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/GraphQLParser.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/GreenDonut.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/HotChocolate.Abstractions.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/HotChocolate.AspNetCore.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/HotChocolate.AspNetCore.Abstractions.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/HotChocolate.AspNetCore.Playground.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/HotChocolate.Execution.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/HotChocolate.Fetching.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/HotChocolate.Language.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/HotChocolate.Language.SyntaxTree.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/HotChocolate.Language.Utf8.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/HotChocolate.Language.Visitors.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/HotChocolate.Server.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/HotChocolate.Subscriptions.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/HotChocolate.Subscriptions.InMemory.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/HotChocolate.Types.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/HotChocolate.Types.CursorPagination.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/HotChocolate.Types.Mutations.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/HotChocolate.Types.OffsetPagination.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/HotChocolate.Types.Scalars.Upload.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/HotChocolate.Utilities.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/HotChocolate.Utilities.Introspection.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/HotChocolate.Validation.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/Microsoft.Bcl.AsyncInterfaces.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/Microsoft.VisualStudio.CodeCoverage.Shim.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.InMemory.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/Microsoft.Extensions.Configuration.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/Microsoft.Extensions.Configuration.FileExtensions.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/Microsoft.Extensions.Configuration.Json.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/Microsoft.Extensions.DiagnosticAdapter.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/Microsoft.Extensions.FileProviders.Abstractions.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/Microsoft.Extensions.FileProviders.Physical.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/Microsoft.Extensions.FileSystemGlobbing.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/Microsoft.Extensions.Identity.Core.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/Microsoft.Extensions.Identity.Stores.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/Microsoft.Extensions.Primitives.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/Microsoft.TestPlatform.CoreUtilities.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/Microsoft.TestPlatform.CommunicationUtilities.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/Microsoft.TestPlatform.CrossPlatEngine.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/Microsoft.TestPlatform.Utilities.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/Microsoft.VisualStudio.TestPlatform.Common.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/testhost.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/Moq.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/Newtonsoft.Json.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/NuGet.Frameworks.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/nunit.framework.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/System.Drawing.Common.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/System.Runtime.Caching.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/System.Security.Permissions.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/System.Text.Encodings.Web.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/System.Text.Json.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/System.Windows.Extensions.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/xunit.abstractions.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/xunit.assert.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/xunit.core.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/xunit.execution.dotnet.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/cs/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/cs/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/de/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/de/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/es/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/es/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/fr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/fr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/it/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/it/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/ja/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/ja/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/ko/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/ko/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/pl/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/pl/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/pt-BR/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/pt-BR/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/ru/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/ru/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/tr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/tr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/zh-Hans/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/zh-Hant/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/cs/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/cs/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/cs/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/de/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/de/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/de/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/es/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/es/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/es/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/fr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/fr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/fr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/it/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/it/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/it/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/ja/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/ja/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/ja/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/ko/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/ko/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/ko/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/pl/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/pl/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/pl/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/pt-BR/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/pt-BR/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/pt-BR/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/ru/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/ru/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/ru/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/tr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/tr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/tr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/zh-Hans/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/zh-Hans/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/runtimes/browser/lib/net6.0/System.Text.Encodings.Web.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/Domain.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/Domain.Services.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/MealBoxApp.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/Persistence.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/MealBoxApp.pdb
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/Domain.Services.pdb
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/Domain.pdb
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/bin/Debug/net6.0/Persistence.pdb
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/obj/Debug/net6.0/Core.Domain.Services.Tests.csproj.AssemblyReference.cache
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/obj/Debug/net6.0/Core.Domain.Services.Tests.GeneratedMSBuildEditorConfig.editorconfig
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/obj/Debug/net6.0/Core.Domain.Services.Tests.AssemblyInfoInputs.cache
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/obj/Debug/net6.0/Core.Domain.Services.Tests.AssemblyInfo.cs
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/obj/Debug/net6.0/Core.Domain.Services.Tests.csproj.CoreCompileInputs.cache
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/obj/Debug/net6.0/Core.Domain.Services.Tests.sourcelink.json
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/obj/Debug/net6.0/Core.Dom.3BAF5F86.Up2Date
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/obj/Debug/net6.0/Core.Domain.Services.Tests.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/obj/Debug/net6.0/refint/Core.Domain.Services.Tests.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/obj/Debug/net6.0/Core.Domain.Services.Tests.pdb
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/obj/Debug/net6.0/Core.Domain.Services.Tests.genruntimeconfig.cache
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Core.Domain.Services.Tests/obj/Debug/net6.0/ref/Core.Domain.Services.Tests.dll

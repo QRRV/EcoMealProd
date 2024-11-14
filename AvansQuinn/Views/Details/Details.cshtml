@@ -1,0 +1,161 @@
+﻿@model Domain.MealBox
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "_Layout";
+    string? reservedBy = ViewBag.ReservedBy ?? null;
+    bool adult = ViewBag.Adult;
+    bool hasReservation = ViewBag.hasReservation;
+
+    string? image;
+    if (Model.MealboxProducts != null)
+    {
+        image = Model.MealboxProducts.FirstOrDefault()?.Product.ImageLink ?? "/images/icon2.jpg";
+    }
+    else
+    {
+        image = "/images/icon2.jpg";
+    }
+}
+
+<div class="container pb-5">
+    <div class="row m-5 no-gutters shadow-lg">
+        <div class="col-md-4 d-none d-md-block p-0">
+            <img alt="nice burgir" src="@image" class="img-fluid add-image" style="min-height: 100%"/>
+        </div>
+        <div class="col-md-8 bg-white p-5">
+            <div class="container-fluid p-0">
+                <div class="row d-flex justify-content-between">
+                    <h2 class="pb-3 form-h2 col-8">@Model.Name</h2>
+                    @if (!string.IsNullOrEmpty(reservedBy))
+                    {
+                        if (reservedBy.Equals("None"))
+                        {
+                            if (Model.Adult)
+                            {
+                                if (adult)
+                                {
+                                    if (!hasReservation)
+                                    {
+                                        <a class="col-4 " style="text-decoration: none" asp-controller="Details" asp-action="Reserve" asp-route-id="@Model.Id">
+                                            <input class="btn btn-success btn-lg" style="width: 10rem; font-weight: bolder; color: white;" type="button" value="Reserveren"/>
+                                        </a>
+                                    }
+                                    else
+                                    {
+                                        <input class="btn btn-success btn-lg col-4" style="width: 10rem; font-weight: bolder; color: white;" type="button" value="Reserveren" onclick="hasReservationAlert()"/>
+                                    }
+                                }
+                                else
+                                {
+                                    <input class="btn btn-success btn-lg col-4" style="width: 10rem; font-weight: bolder; color: white;" type="button" value="Reserveren" onclick="tooYoungAlert()"/>
+                                }
+                            }
+                            else
+                            {
+                                if (!hasReservation)
+                                {
+                                    <a class="col-4 " style="text-decoration: none" asp-controller="Details" asp-action="Reserve" asp-route-id="@Model.Id">
+                                        <input class="btn btn-success btn-lg" style="width: 10rem; font-weight: bolder; color: white;" type="button" value="Reserveren"/>
+                                    </a>
+                                }
+                                else
+                                {
+                                    <input class="btn btn-success btn-lg col-4" style="width: 10rem; font-weight: bolder; color: white;" type="button" value="Reserveren" onclick="hasReservationAlert()"/>
+                                }
+                            }
+                        }
+                        else if (reservedBy.Equals("This"))
+                        {
+                            <a class="col-4 " style="text-decoration: none" asp-controller="Details" asp-action="Cancel" asp-route-id="@Model.Id">
+                                <input class="btn btn-danger btn-lg" style="width: 10rem; font-weight: bolder; color: white;" type="button" value="Annuleren"/>
+                            </a>
+                        }
+                    }
+
+                </div>
+
+            </div>
+
+            <h4 class="pb-3 form-h2">€@Model.Price</h4>
+            <ul class="nav nav-tabs" id="myTab" role="tablist">
+                <li class="nav-item" role="presentation">
+                    <button class="nav-link active" id="about-tab" data-bs-toggle="tab" data-bs-target="#about" type="button" role="tab" aria-controls="about" aria-selected="true">Over</button>
+                </li>
+                <li class="nav-item" role="presentation">
+                    <button class="nav-link" id="products-tab" data-bs-toggle="tab" data-bs-target="#products" type="button" role="tab" aria-controls="products" aria-selected="false">Producten</button>
+                </li>
+            </ul>
+            <div class="tab-content" id="myTabContent">
+                <div class="tab-pane fade show active" id="about" role="tabpanel" aria-labelledby="about-tab">
+                    <p></p>
+                    <div class="container-fluid">
+                        <div class="row">
+                            <h5 class="pb-3 form-h2 col">Type:</h5>
+                            <h5 class="pb-3 form-h2 col">@Model.Type</h5>
+                        </div>
+                        <div class="row">
+                            <h5 class="pb-3 form-h2 col">Stad:</h5>
+                            <h5 class="pb-3 form-h2 col">@Model.City</h5>
+                        </div>
+                        <div class="row">
+                            <h5 class="pb-3 form-h2 col">Kantine:</h5>
+                            <h5 class="pb-3 form-h2 col">@(char.ToUpper(Model.Canteen.Location[0]) + Model.Canteen.Location.Substring(1))</h5>
+                        </div>
+                        <div class="row">
+                            <h5 class="pb-3 form-h2 col">Leeftijdsgrens:</h5>
+                            <h5 class="pb-3 form-h2 col">@(Model.Adult ? "18+" : "16+")</h5>
+                        </div>
+                        <div class="row">
+                            <h5 class="pb-3 form-h2 col">Minimale ophaaldatum:</h5>
+                            <h5 class="pb-3 form-h2 col">@(char.ToUpper(Model.PickUpTimeMin.ToString("ddd dd MMMM yyyy HH:m")[0]) + Model.PickUpTimeMin.ToString("ddd dd MMMM yyyy HH:m").Substring(1))</h5>
+                        </div>
+                        <div class="row">
+                            <h5 class="pb-3 form-h2 col">Maximale ophaaldatum:</h5>
+                            <h5 class="pb-3 form-h2 col">@(char.ToUpper(Model.PickUpTimeMax.ToString("ddd dd MMMM yyyy HH:m")[0]) + Model.PickUpTimeMax.ToString("ddd dd MMMM yyyy HH:m").Substring(1))</h5>
+                        </div>
+                    </div>
+
+                </div>
+                <div class="tab-pane fade overflow-auto" id="products" role="tabpanel" aria-labelledby="products-tab" style="max-height: 27rem;  margin-bottom: 10px; -webkit-overflow-scrolling: touch;">
+                    <p></p>
+                    <ul class="list-group list-group-flush">
+                        @if (Model.MealboxProducts != null)
+                        {
+                            foreach (var mealboxProduct in Model.MealboxProducts)
+                            {
+                                <li class="list-group-item">
+                                    <p></p>
+                                    <div class="container-fluid">
+                                        <div class="row">
+                                            <div class="col-xxl-3 col-xl-12">
+                                                <img alt="productImg" src="@mealboxProduct.Product.ImageLink" width="150" height="150" style="object-fit: cover; object-position: center"/>
+                                            </div>
+                                            <div class="col-9">
+                                                <div class="container-fluid">
+                                                    <div class="row">
+                                                        <h5 class=" form-h2 col">Naam:</h5>
+                                                    </div>
+                                                    <div class="row">
+                                                        <h7 class="pb-3 form-h2 col">@mealboxProduct.Product.Name</h7>
+                                                    </div>
+                                                    <div class="row">
+                                                        <h5 class=" form-h2 col">Bevat alcohol:</h5>
+                                                    </div>
+                                                    <div class="row">
+                                                        <h7 class="pb-3 form-h2 col">@(mealboxProduct.Product.ContainsAlcohol ? "Ja" : "Nee")</h7>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <p></p>
+                                </li>
+                            }
+                        }
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

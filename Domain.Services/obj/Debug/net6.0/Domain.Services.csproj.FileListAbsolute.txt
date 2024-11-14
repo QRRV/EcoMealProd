@@ -1,0 +1,72 @@
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Domain.Services/bin/Debug/net6.0/Domain.Services.deps.json
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Domain.Services/bin/Debug/net6.0/Domain.Services.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Domain.Services/bin/Debug/net6.0/Domain.Services.pdb
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Domain.Services/obj/Debug/net6.0/Domain.Services.csproj.AssemblyReference.cache
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Domain.Services/obj/Debug/net6.0/Domain.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Domain.Services/obj/Debug/net6.0/Domain.Services.AssemblyInfoInputs.cache
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Domain.Services/obj/Debug/net6.0/Domain.Services.AssemblyInfo.cs
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Domain.Services/obj/Debug/net6.0/Domain.Services.csproj.CoreCompileInputs.cache
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Domain.Services/obj/Debug/net6.0/Domain.Services.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Domain.Services/obj/Debug/net6.0/refint/Domain.Services.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Domain.Services/obj/Debug/net6.0/Domain.Services.pdb
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Domain.Services/obj/Debug/net6.0/ref/Domain.Services.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Domain.Services/bin/Debug/net6.0/Domain.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Domain.Services/bin/Debug/net6.0/Domain.pdb
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Domain.Services/obj/Debug/net6.0/Domain.Services.csproj.CopyComplete
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Domain.Services/bin/Debug/net6.0/Domain.Services.runtimeconfig.json
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Domain.Services/obj/Debug/net6.0/Domain.Services.genruntimeconfig.cache
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Domain.Services/obj/Debug/net6.0/Domain.Services.sourcelink.json
+/home/qrrv/Projects/School/2A-QuinnVerschoor - IVT2-1-MaaltijdenApp/AvansQuinn/Domain.Services/bin/Debug/net6.0/Domain.Services.deps.json
+/home/qrrv/Projects/School/2A-QuinnVerschoor - IVT2-1-MaaltijdenApp/AvansQuinn/Domain.Services/bin/Debug/net6.0/Domain.Services.runtimeconfig.json
+/home/qrrv/Projects/School/2A-QuinnVerschoor - IVT2-1-MaaltijdenApp/AvansQuinn/Domain.Services/bin/Debug/net6.0/Domain.Services.dll
+/home/qrrv/Projects/School/2A-QuinnVerschoor - IVT2-1-MaaltijdenApp/AvansQuinn/Domain.Services/bin/Debug/net6.0/Domain.Services.pdb
+/home/qrrv/Projects/School/2A-QuinnVerschoor - IVT2-1-MaaltijdenApp/AvansQuinn/Domain.Services/bin/Debug/net6.0/Domain.dll
+/home/qrrv/Projects/School/2A-QuinnVerschoor - IVT2-1-MaaltijdenApp/AvansQuinn/Domain.Services/bin/Debug/net6.0/Domain.pdb
+/home/qrrv/Projects/School/2A-QuinnVerschoor - IVT2-1-MaaltijdenApp/AvansQuinn/Domain.Services/obj/Debug/net6.0/Domain.Services.csproj.AssemblyReference.cache
+/home/qrrv/Projects/School/2A-QuinnVerschoor - IVT2-1-MaaltijdenApp/AvansQuinn/Domain.Services/obj/Debug/net6.0/Domain.Services.GeneratedMSBuildEditorConfig.editorconfig
+/home/qrrv/Projects/School/2A-QuinnVerschoor - IVT2-1-MaaltijdenApp/AvansQuinn/Domain.Services/obj/Debug/net6.0/Domain.Services.AssemblyInfoInputs.cache
+/home/qrrv/Projects/School/2A-QuinnVerschoor - IVT2-1-MaaltijdenApp/AvansQuinn/Domain.Services/obj/Debug/net6.0/Domain.Services.AssemblyInfo.cs
+/home/qrrv/Projects/School/2A-QuinnVerschoor - IVT2-1-MaaltijdenApp/AvansQuinn/Domain.Services/obj/Debug/net6.0/Domain.Services.csproj.CoreCompileInputs.cache
+/home/qrrv/Projects/School/2A-QuinnVerschoor - IVT2-1-MaaltijdenApp/AvansQuinn/Domain.Services/obj/Debug/net6.0/Domain.Services.sourcelink.json
+/home/qrrv/Projects/School/2A-QuinnVerschoor - IVT2-1-MaaltijdenApp/AvansQuinn/Domain.Services/obj/Debug/net6.0/Domain.Services.dll
+/home/qrrv/Projects/School/2A-QuinnVerschoor - IVT2-1-MaaltijdenApp/AvansQuinn/Domain.Services/obj/Debug/net6.0/refint/Domain.Services.dll
+/home/qrrv/Projects/School/2A-QuinnVerschoor - IVT2-1-MaaltijdenApp/AvansQuinn/Domain.Services/obj/Debug/net6.0/Domain.Services.pdb
+/home/qrrv/Projects/School/2A-QuinnVerschoor - IVT2-1-MaaltijdenApp/AvansQuinn/Domain.Services/obj/Debug/net6.0/Domain.Services.genruntimeconfig.cache
+/home/qrrv/Projects/School/2A-QuinnVerschoor - IVT2-1-MaaltijdenApp/AvansQuinn/Domain.Services/obj/Debug/net6.0/ref/Domain.Services.dll
+/home/qrrv/Projects/School/2A-QuinnVerschoor - IVT2-1-MaaltijdenApp/AvansQuinn/Domain.Services/obj/Debug/net6.0/Domain.S.44836E94.Up2Date
+/home/qrrv/Projects/School/EcoMeal/Domain.Services/bin/Debug/net6.0/Domain.Services.deps.json
+/home/qrrv/Projects/School/EcoMeal/Domain.Services/bin/Debug/net6.0/Domain.Services.runtimeconfig.json
+/home/qrrv/Projects/School/EcoMeal/Domain.Services/bin/Debug/net6.0/Domain.Services.dll
+/home/qrrv/Projects/School/EcoMeal/Domain.Services/bin/Debug/net6.0/Domain.Services.pdb
+/home/qrrv/Projects/School/EcoMeal/Domain.Services/bin/Debug/net6.0/Domain.dll
+/home/qrrv/Projects/School/EcoMeal/Domain.Services/bin/Debug/net6.0/Domain.pdb
+/home/qrrv/Projects/School/EcoMeal/Domain.Services/obj/Debug/net6.0/Domain.Services.csproj.AssemblyReference.cache
+/home/qrrv/Projects/School/EcoMeal/Domain.Services/obj/Debug/net6.0/Domain.Services.GeneratedMSBuildEditorConfig.editorconfig
+/home/qrrv/Projects/School/EcoMeal/Domain.Services/obj/Debug/net6.0/Domain.Services.AssemblyInfoInputs.cache
+/home/qrrv/Projects/School/EcoMeal/Domain.Services/obj/Debug/net6.0/Domain.Services.AssemblyInfo.cs
+/home/qrrv/Projects/School/EcoMeal/Domain.Services/obj/Debug/net6.0/Domain.Services.csproj.CoreCompileInputs.cache
+/home/qrrv/Projects/School/EcoMeal/Domain.Services/obj/Debug/net6.0/Domain.Services.sourcelink.json
+/home/qrrv/Projects/School/EcoMeal/Domain.Services/obj/Debug/net6.0/Domain.S.44836E94.Up2Date
+/home/qrrv/Projects/School/EcoMeal/Domain.Services/obj/Debug/net6.0/Domain.Services.dll
+/home/qrrv/Projects/School/EcoMeal/Domain.Services/obj/Debug/net6.0/refint/Domain.Services.dll
+/home/qrrv/Projects/School/EcoMeal/Domain.Services/obj/Debug/net6.0/Domain.Services.pdb
+/home/qrrv/Projects/School/EcoMeal/Domain.Services/obj/Debug/net6.0/Domain.Services.genruntimeconfig.cache
+/home/qrrv/Projects/School/EcoMeal/Domain.Services/obj/Debug/net6.0/ref/Domain.Services.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Domain.Services/bin/Debug/net6.0/Domain.Services.deps.json
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Domain.Services/bin/Debug/net6.0/Domain.Services.runtimeconfig.json
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Domain.Services/bin/Debug/net6.0/Domain.Services.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Domain.Services/bin/Debug/net6.0/Domain.Services.pdb
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Domain.Services/bin/Debug/net6.0/Domain.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Domain.Services/bin/Debug/net6.0/Domain.pdb
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Domain.Services/obj/Debug/net6.0/Domain.Services.csproj.AssemblyReference.cache
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Domain.Services/obj/Debug/net6.0/Domain.Services.GeneratedMSBuildEditorConfig.editorconfig
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Domain.Services/obj/Debug/net6.0/Domain.Services.AssemblyInfoInputs.cache
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Domain.Services/obj/Debug/net6.0/Domain.Services.AssemblyInfo.cs
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Domain.Services/obj/Debug/net6.0/Domain.Services.csproj.CoreCompileInputs.cache
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Domain.Services/obj/Debug/net6.0/Domain.Services.sourcelink.json
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Domain.Services/obj/Debug/net6.0/Domain.S.44836E94.Up2Date
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Domain.Services/obj/Debug/net6.0/Domain.Services.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Domain.Services/obj/Debug/net6.0/refint/Domain.Services.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Domain.Services/obj/Debug/net6.0/Domain.Services.pdb
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Domain.Services/obj/Debug/net6.0/Domain.Services.genruntimeconfig.cache
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Domain.Services/obj/Debug/net6.0/ref/Domain.Services.dll

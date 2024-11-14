@@ -1,0 +1,80 @@
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Persistence/bin/Debug/net6.0/Persistence.deps.json
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Persistence/bin/Debug/net6.0/Persistence.runtimeconfig.json
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Persistence/bin/Debug/net6.0/Persistence.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Persistence/bin/Debug/net6.0/Persistence.pdb
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Persistence/bin/Debug/net6.0/Domain.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Persistence/bin/Debug/net6.0/Domain.pdb
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Persistence/obj/Debug/net6.0/Persistence.csproj.AssemblyReference.cache
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Persistence/obj/Debug/net6.0/Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Persistence/obj/Debug/net6.0/Persistence.AssemblyInfoInputs.cache
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Persistence/obj/Debug/net6.0/Persistence.AssemblyInfo.cs
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Persistence/obj/Debug/net6.0/Persistence.csproj.CoreCompileInputs.cache
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Persistence/obj/Debug/net6.0/Persistence.csproj.CopyComplete
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Persistence/obj/Debug/net6.0/Persistence.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Persistence/obj/Debug/net6.0/refint/Persistence.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Persistence/obj/Debug/net6.0/Persistence.pdb
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Persistence/obj/Debug/net6.0/Persistence.genruntimeconfig.cache
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Persistence/obj/Debug/net6.0/ref/Persistence.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Persistence/bin/Debug/net6.0/Domain.Services.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Persistence/bin/Debug/net6.0/Domain.Services.pdb
+D:/School_Avans/Vakken/SSWF/AvansQuinn/Persistence/obj/Debug/net6.0/Persistence.sourcelink.json
+/home/qrrv/Projects/School/2A-QuinnVerschoor - IVT2-1-MaaltijdenApp/AvansQuinn/Persistence/bin/Debug/net6.0/Persistence.deps.json
+/home/qrrv/Projects/School/2A-QuinnVerschoor - IVT2-1-MaaltijdenApp/AvansQuinn/Persistence/bin/Debug/net6.0/Persistence.runtimeconfig.json
+/home/qrrv/Projects/School/2A-QuinnVerschoor - IVT2-1-MaaltijdenApp/AvansQuinn/Persistence/bin/Debug/net6.0/Persistence.dll
+/home/qrrv/Projects/School/2A-QuinnVerschoor - IVT2-1-MaaltijdenApp/AvansQuinn/Persistence/bin/Debug/net6.0/Persistence.pdb
+/home/qrrv/Projects/School/2A-QuinnVerschoor - IVT2-1-MaaltijdenApp/AvansQuinn/Persistence/bin/Debug/net6.0/Domain.dll
+/home/qrrv/Projects/School/2A-QuinnVerschoor - IVT2-1-MaaltijdenApp/AvansQuinn/Persistence/bin/Debug/net6.0/Domain.Services.dll
+/home/qrrv/Projects/School/2A-QuinnVerschoor - IVT2-1-MaaltijdenApp/AvansQuinn/Persistence/bin/Debug/net6.0/Domain.Services.pdb
+/home/qrrv/Projects/School/2A-QuinnVerschoor - IVT2-1-MaaltijdenApp/AvansQuinn/Persistence/bin/Debug/net6.0/Domain.pdb
+/home/qrrv/Projects/School/2A-QuinnVerschoor - IVT2-1-MaaltijdenApp/AvansQuinn/Persistence/obj/Debug/net6.0/Persistence.csproj.AssemblyReference.cache
+/home/qrrv/Projects/School/2A-QuinnVerschoor - IVT2-1-MaaltijdenApp/AvansQuinn/Persistence/obj/Debug/net6.0/Persistence.GeneratedMSBuildEditorConfig.editorconfig
+/home/qrrv/Projects/School/2A-QuinnVerschoor - IVT2-1-MaaltijdenApp/AvansQuinn/Persistence/obj/Debug/net6.0/Persistence.AssemblyInfoInputs.cache
+/home/qrrv/Projects/School/2A-QuinnVerschoor - IVT2-1-MaaltijdenApp/AvansQuinn/Persistence/obj/Debug/net6.0/Persistence.AssemblyInfo.cs
+/home/qrrv/Projects/School/2A-QuinnVerschoor - IVT2-1-MaaltijdenApp/AvansQuinn/Persistence/obj/Debug/net6.0/Persistence.csproj.CoreCompileInputs.cache
+/home/qrrv/Projects/School/2A-QuinnVerschoor - IVT2-1-MaaltijdenApp/AvansQuinn/Persistence/obj/Debug/net6.0/Persistence.sourcelink.json
+/home/qrrv/Projects/School/2A-QuinnVerschoor - IVT2-1-MaaltijdenApp/AvansQuinn/Persistence/obj/Debug/net6.0/Persistence.dll
+/home/qrrv/Projects/School/2A-QuinnVerschoor - IVT2-1-MaaltijdenApp/AvansQuinn/Persistence/obj/Debug/net6.0/refint/Persistence.dll
+/home/qrrv/Projects/School/2A-QuinnVerschoor - IVT2-1-MaaltijdenApp/AvansQuinn/Persistence/obj/Debug/net6.0/Persistence.pdb
+/home/qrrv/Projects/School/2A-QuinnVerschoor - IVT2-1-MaaltijdenApp/AvansQuinn/Persistence/obj/Debug/net6.0/Persistence.genruntimeconfig.cache
+/home/qrrv/Projects/School/2A-QuinnVerschoor - IVT2-1-MaaltijdenApp/AvansQuinn/Persistence/obj/Debug/net6.0/ref/Persistence.dll
+/home/qrrv/Projects/School/2A-QuinnVerschoor - IVT2-1-MaaltijdenApp/AvansQuinn/Persistence/obj/Debug/net6.0/Persiste.61C28332.Up2Date
+/home/qrrv/Projects/School/EcoMeal/Persistence/bin/Debug/net6.0/Persistence.deps.json
+/home/qrrv/Projects/School/EcoMeal/Persistence/bin/Debug/net6.0/Persistence.runtimeconfig.json
+/home/qrrv/Projects/School/EcoMeal/Persistence/bin/Debug/net6.0/Persistence.dll
+/home/qrrv/Projects/School/EcoMeal/Persistence/bin/Debug/net6.0/Persistence.pdb
+/home/qrrv/Projects/School/EcoMeal/Persistence/bin/Debug/net6.0/Domain.dll
+/home/qrrv/Projects/School/EcoMeal/Persistence/bin/Debug/net6.0/Domain.Services.dll
+/home/qrrv/Projects/School/EcoMeal/Persistence/bin/Debug/net6.0/Domain.Services.pdb
+/home/qrrv/Projects/School/EcoMeal/Persistence/bin/Debug/net6.0/Domain.pdb
+/home/qrrv/Projects/School/EcoMeal/Persistence/obj/Debug/net6.0/Persistence.csproj.AssemblyReference.cache
+/home/qrrv/Projects/School/EcoMeal/Persistence/obj/Debug/net6.0/Persistence.GeneratedMSBuildEditorConfig.editorconfig
+/home/qrrv/Projects/School/EcoMeal/Persistence/obj/Debug/net6.0/Persistence.AssemblyInfoInputs.cache
+/home/qrrv/Projects/School/EcoMeal/Persistence/obj/Debug/net6.0/Persistence.AssemblyInfo.cs
+/home/qrrv/Projects/School/EcoMeal/Persistence/obj/Debug/net6.0/Persistence.csproj.CoreCompileInputs.cache
+/home/qrrv/Projects/School/EcoMeal/Persistence/obj/Debug/net6.0/Persistence.sourcelink.json
+/home/qrrv/Projects/School/EcoMeal/Persistence/obj/Debug/net6.0/Persiste.61C28332.Up2Date
+/home/qrrv/Projects/School/EcoMeal/Persistence/obj/Debug/net6.0/Persistence.dll
+/home/qrrv/Projects/School/EcoMeal/Persistence/obj/Debug/net6.0/refint/Persistence.dll
+/home/qrrv/Projects/School/EcoMeal/Persistence/obj/Debug/net6.0/Persistence.pdb
+/home/qrrv/Projects/School/EcoMeal/Persistence/obj/Debug/net6.0/Persistence.genruntimeconfig.cache
+/home/qrrv/Projects/School/EcoMeal/Persistence/obj/Debug/net6.0/ref/Persistence.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Persistence/bin/Debug/net6.0/Persistence.deps.json
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Persistence/bin/Debug/net6.0/Persistence.runtimeconfig.json
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Persistence/bin/Debug/net6.0/Persistence.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Persistence/bin/Debug/net6.0/Persistence.pdb
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Persistence/bin/Debug/net6.0/Domain.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Persistence/bin/Debug/net6.0/Domain.Services.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Persistence/bin/Debug/net6.0/Domain.Services.pdb
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Persistence/bin/Debug/net6.0/Domain.pdb
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Persistence/obj/Debug/net6.0/Persistence.csproj.AssemblyReference.cache
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Persistence/obj/Debug/net6.0/Persistence.GeneratedMSBuildEditorConfig.editorconfig
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Persistence/obj/Debug/net6.0/Persistence.AssemblyInfoInputs.cache
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Persistence/obj/Debug/net6.0/Persistence.AssemblyInfo.cs
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Persistence/obj/Debug/net6.0/Persistence.csproj.CoreCompileInputs.cache
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Persistence/obj/Debug/net6.0/Persistence.sourcelink.json
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Persistence/obj/Debug/net6.0/Persiste.61C28332.Up2Date
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Persistence/obj/Debug/net6.0/Persistence.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Persistence/obj/Debug/net6.0/refint/Persistence.dll
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Persistence/obj/Debug/net6.0/Persistence.pdb
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Persistence/obj/Debug/net6.0/Persistence.genruntimeconfig.cache
+/home/qrrv/Projects/School/Test/EcoMeal (Copy)/Persistence/obj/Debug/net6.0/ref/Persistence.dll

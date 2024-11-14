@@ -1,0 +1,94 @@
+﻿@using System.Globalization
+@model Domain.MealBox
+
+@{
+    ViewBag.Title = "Edit Mealbox";
+    Layout = "_Layout";
+    var price = Model.Price.ToString(new CultureInfo("en-US"));
+    string? image;
+    if (Model.MealboxProducts != null)
+    {
+        image = Model.MealboxProducts.FirstOrDefault()?.Product.ImageLink ?? "/images/icon2.jpg";
+    }
+    else
+    {
+        image = "/images/icon2.jpg";
+    }
+    string[] types = { "Brood", "Drinken", "Avondmaaltijd", "Luxemaaltijd", "Budgetmeal", "Snoep", "Alcoholische drank", "Bewust eten", "Zuivel producten", "Toetjes" };
+}
+<div class="container pb-4">
+    <div class="row m-5 no-gutters shadow-lg">
+        <div class="col-md-6 d-none d-md-block p-0">
+            <img alt="nice burgir" src="@image" class="img-fluid add-image" style="min-height:100%;"/>
+        </div>
+        <div class="col-md-6 bg-white p-5">
+            <h2 class="pb-3 form-h2">Mealbox Wijzigen</h2>
+            <div class="form-style">
+                <form method="post" asp-controller="Employee" asp-action="Edit">
+                    <div class="form-group pb-3">
+                        <label>Naam</label>
+                        <input placeholder="Naam" class="form-control" type="text" id="name" name="name" value="@Model.Name" required/>
+                    </div>
+                    <div class="form-group pb-3">
+                        <label>Minimale ophaal datum</label>
+                        <input step="any" class="form-control" id="pickUpTimeMin" name="pickUpTimeMin" type="datetime-local" min=@DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss").Replace(' ', 'T') max=@DateTime.Now.AddDays(2).ToString("yyyy-MM-dd HH:mm:ss").Replace(' ', 'T') required value=@Model.PickUpTimeMin.ToString("yyyy-MM-dd HH:mm:ss").Replace(' ', 'T')>
+                    </div>
+                    <div class="form-group pb-3">
+                        <label>Maximale ophaal datum</label>
+                        <input step="any" class="form-control" id="pickUpTimeMax" name="pickUpTimeMax" type="datetime-local" min=@DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss").Replace(' ', 'T') max=@DateTime.Now.AddDays(2).ToString("yyyy-MM-dd HH:mm:ss").Replace(' ', 'T') required value=@Model.PickUpTimeMax.ToString("yyyy-MM-dd HH:mm:ss").Replace(' ', 'T')>
+                    </div>
+
+                    <div class="form-group pb-3">
+                        <label>Prijs</label>
+                        <input type="number" name="price" id="price" min="0" step="any" placeholder="0.00" required value="@price"/>
+                    </div>
+                    <div class="form-group pb-3">
+                        <label>Type Mealbox</label>
+                        <select class="form-select" name="type" id="type" required>
+                            @foreach (var type in types)
+                            {
+                                if (type.Equals(Model.Type))
+                                {
+                                    <option selected value="@type">@type</option>
+                                }
+                                else
+                                {
+                                    <option value="@type">@type</option>
+                                }
+                            }
+                        </select>
+                    </div>
+                    <div class="form-group pb-3">
+                        <label>Producten</label>
+                        <select class="form-select" name="products" id="products" multiple="multiple" required>
+                            @foreach (var product in ViewBag.Products)
+                            {
+                                Console.WriteLine(Model.Name);
+                                var found = false;
+                                if (Model.MealboxProducts != null)
+                                {
+                                    foreach (var mealBoxProduct in Model.MealboxProducts)
+                                    {
+                                        if (mealBoxProduct.Product.Id == product.Id)
+                                        {
+                                            <option selected value=@product.Id>@product.Name</option>
+                                            found = true;
+                                        }
+                                    }
+                                }
+                                if (!found)
+                                {
+                                    <option value=@product.Id>@product.Name</option>
+                                }
+                            }
+                        </select>
+                    </div>
+                    <div class="pb-2">
+                        <input style="background-color: #183446; font-weight: bolder; color: white; border-radius: 5px" class="form-control" type="submit" value="Submit" asp-controller="Employee" asp-action="Edit" asp-route-id="@Model.Id" required/>
+                    </div>
+                </form>
+            </div>
+
+        </div>
+    </div>
+</div>

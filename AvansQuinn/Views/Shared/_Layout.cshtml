@@ -1,0 +1,100 @@
+﻿
+@inject SignInManager<IdentityUser> SignInManager;
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>@ViewData["Title"] - AvansQuinn</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true"/>
+    <link href="https://fonts.googleapis.com/css?family=Roboto:700,300" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css">
+</head>
+<body>
+<header>
+
+    <nav class="navbar navbar-expand-lg navBarColor navbar-dark">
+        <div>
+            <a class="nav-link navBarColor" asp-area="" asp-controller="Home" asp-action="Index" style="font-weight: bolder; font-size: 1.5rem !important; margin-bottom: 0.4rem !important;">
+                <img src="/images/EcoMeal2.jpg" height="40" alt="">
+            </a>
+        </div>
+
+        <button class="navbar-toggler" style="border-color: white;" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item active">
+                    <a class="nav-link text-dark navBarColor" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+                </li>
+                @if (SignInManager.IsSignedIn(User))
+                {
+                    @if (User.IsInRole("Student"))
+                    {
+                        <li class="nav-item">
+                            <a class="nav-link text-dark navBarColor" asp-area="" asp-controller="Student" asp-action="Reserved">Gereserveerd</a>
+                        </li>
+                    }
+                    else if (User.IsInRole("Employee"))
+                    {
+                        <li class="nav-item">
+                            <a class="nav-link text-dark navBarColor" asp-area="" asp-controller="Employee" asp-action="Manage">MealBoxes Beheren</a>
+                        </li>
+                    }
+                    <li class="nav-item py-0">
+                        <form method="post" asp-action="logout" asp-controller="Account">
+                            <button type="submit" class="nav-link btn btn-link text-dark navBarColor" style="width: auto; ">Logout @User.Identity?.Name</button>
+                        </form>
+                    </li>
+                }
+                else
+                {
+                    <li class="nav-item py-0 ">
+                        <a class="nav-link text-dark navBarColor" asp-area="" asp-controller="Account" asp-action="Login">Login</a>
+                    </li>
+                }
+            </ul>
+        </div>
+    </nav>
+
+</header>
+@RenderBody()
+<footer class="bg-light text-center text-lg-start footer">
+    <!-- Copyright -->
+    <div class="text-center p-3 navBarColor">
+        © 2022 Copyright: Quinn Verschoor
+    </div>
+    <!-- Copyright -->
+</footer>
+
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+<script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+<script src="~/js/site.js" asp-append-version="true"></script>
+<script>
+$('.carousel').carousel({
+  interval: 2000
+})
+</script>
+<script>
+function cantDeleteAlert() {
+   alert("Kan mealbox niet verwijderen, er is al een reservering geplaatst!");
+ }
+ function cantEditAlert() {
+    alert("Kan mealbox niet wijzigen, er is al een reservering geplaatst!");
+  }
+ function tooYoungAlert() {
+    alert("Kan de mealbox niet reserveren, je moet 18+ zijn!");
+  }
+  function hasReservationAlert() {
+      alert("Kan de mealbox niet reserveren, je hebt op deze dag al een mealbox gereserveerd!");
+    }
+    
+</script>
+
+@await RenderSectionAsync("Scripts", false)
+</body>
+
+</html>

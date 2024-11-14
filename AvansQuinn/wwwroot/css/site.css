@@ -1,0 +1,135 @@
+html {
+    font-size: 14px;
+}
+
+@media (min-width: 768px) {
+    html {
+        font-size: 16px;
+    }
+}
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    margin-bottom: 60px;
+}
+
+.navBarColor {
+    font-family: sans-serif;
+    font-weight: bolder;
+    background-color: #183446 !important;
+    color: white !important;
+}
+
+
+.card {
+    background: #183446;
+    border: 2px solid black;
+    color: white;
+    margin-bottom: 2rem;
+}
+
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    margin-bottom: 60px; /* Margin bottom by footer height */
+}
+
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    line-height: 30px; /* Vertically center the text there */
+}
+
+
+.carousel-h2 {
+    background-color: #FFFFFF;
+    margin: auto;
+    color: #183446;
+    font-weight: 700;
+    padding: 10px 35px;
+    border-radius: 5px;
+    width: auto;
+}
+
+.carousel-h3 {
+    color: #FFFFFF;
+    font-weight: bold;
+}
+
+.carousel-image {
+    height: 21.875rem;
+    object-fit: cover;
+    object-position: center;
+}
+
+.main-text {
+    color: black;
+    position: absolute;
+    top: 7rem;
+}
+
+
+.form-style input {
+    border: 0;
+    height: 50px;
+    border-radius: 0;
+    border-bottom: 1px solid #ebebeb;
+}
+
+.form-style input:focus {
+    border-bottom: 1px solid #007bff;
+    box-shadow: none;
+    outline: 0;
+    background-color: #ebebeb;
+}
+
+.sideline {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: #ccc;
+}
+
+.sideline:before,
+.sideline:after {
+    content: '';
+    border-top: 1px solid #ebebeb;
+    margin: 0 20px 0 0;
+    flex: 1 0 20px;
+}
+
+.sideline:after {
+    margin: 0 0 0 20px;
+}
+
+.add-image {
+    object-fit: cover;
+    object-position: center;
+}
+
+.form-h2 {
+    color: #183446;
+    font-weight: 700;
+    width: auto;
+}
+
+.dropdown-toggle {
+    background-color: #183446;
+    font-weight: bolder;
+}
+
+.dropdown-item {
+    font-weight: bolder;
+    color: #183446;
+}

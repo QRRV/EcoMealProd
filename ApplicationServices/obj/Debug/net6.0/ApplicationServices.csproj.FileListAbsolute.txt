@@ -1,0 +1,54 @@
+D:/School_Avans/Vakken/SSWF/AvansQuinn/ApplicationServices/bin/Debug/net6.0/ApplicationServices.deps.json
+D:/School_Avans/Vakken/SSWF/AvansQuinn/ApplicationServices/bin/Debug/net6.0/ApplicationServices.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/ApplicationServices/bin/Debug/net6.0/ApplicationServices.pdb
+D:/School_Avans/Vakken/SSWF/AvansQuinn/ApplicationServices/bin/Debug/net6.0/Domain.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/ApplicationServices/bin/Debug/net6.0/Domain.Services.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/ApplicationServices/bin/Debug/net6.0/Domain.Services.pdb
+D:/School_Avans/Vakken/SSWF/AvansQuinn/ApplicationServices/bin/Debug/net6.0/Domain.pdb
+D:/School_Avans/Vakken/SSWF/AvansQuinn/ApplicationServices/obj/Debug/net6.0/ApplicationServices.csproj.AssemblyReference.cache
+D:/School_Avans/Vakken/SSWF/AvansQuinn/ApplicationServices/obj/Debug/net6.0/ApplicationServices.GeneratedMSBuildEditorConfig.editorconfig
+D:/School_Avans/Vakken/SSWF/AvansQuinn/ApplicationServices/obj/Debug/net6.0/ApplicationServices.AssemblyInfoInputs.cache
+D:/School_Avans/Vakken/SSWF/AvansQuinn/ApplicationServices/obj/Debug/net6.0/ApplicationServices.AssemblyInfo.cs
+D:/School_Avans/Vakken/SSWF/AvansQuinn/ApplicationServices/obj/Debug/net6.0/ApplicationServices.csproj.CoreCompileInputs.cache
+D:/School_Avans/Vakken/SSWF/AvansQuinn/ApplicationServices/obj/Debug/net6.0/ApplicationServices.csproj.CopyComplete
+D:/School_Avans/Vakken/SSWF/AvansQuinn/ApplicationServices/obj/Debug/net6.0/ApplicationServices.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/ApplicationServices/obj/Debug/net6.0/refint/ApplicationServices.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/ApplicationServices/obj/Debug/net6.0/ApplicationServices.pdb
+D:/School_Avans/Vakken/SSWF/AvansQuinn/ApplicationServices/obj/Debug/net6.0/ref/ApplicationServices.dll
+D:/School_Avans/Vakken/SSWF/AvansQuinn/ApplicationServices/obj/Debug/net6.0/ApplicationServices.sourcelink.json
+/home/qrrv/Projects/School/2A-QuinnVerschoor - IVT2-1-MaaltijdenApp/AvansQuinn/ApplicationServices/bin/Debug/net6.0/ApplicationServices.deps.json
+/home/qrrv/Projects/School/2A-QuinnVerschoor - IVT2-1-MaaltijdenApp/AvansQuinn/ApplicationServices/bin/Debug/net6.0/ApplicationServices.dll
+/home/qrrv/Projects/School/2A-QuinnVerschoor - IVT2-1-MaaltijdenApp/AvansQuinn/ApplicationServices/bin/Debug/net6.0/ApplicationServices.pdb
+/home/qrrv/Projects/School/2A-QuinnVerschoor - IVT2-1-MaaltijdenApp/AvansQuinn/ApplicationServices/bin/Debug/net6.0/Domain.dll
+/home/qrrv/Projects/School/2A-QuinnVerschoor - IVT2-1-MaaltijdenApp/AvansQuinn/ApplicationServices/bin/Debug/net6.0/Domain.Services.dll
+/home/qrrv/Projects/School/2A-QuinnVerschoor - IVT2-1-MaaltijdenApp/AvansQuinn/ApplicationServices/bin/Debug/net6.0/Domain.Services.pdb
+/home/qrrv/Projects/School/2A-QuinnVerschoor - IVT2-1-MaaltijdenApp/AvansQuinn/ApplicationServices/bin/Debug/net6.0/Domain.pdb
+/home/qrrv/Projects/School/2A-QuinnVerschoor - IVT2-1-MaaltijdenApp/AvansQuinn/ApplicationServices/obj/Debug/net6.0/ApplicationServices.csproj.AssemblyReference.cache
+/home/qrrv/Projects/School/2A-QuinnVerschoor - IVT2-1-MaaltijdenApp/AvansQuinn/ApplicationServices/obj/Debug/net6.0/ApplicationServices.GeneratedMSBuildEditorConfig.editorconfig
+/home/qrrv/Projects/School/2A-QuinnVerschoor - IVT2-1-MaaltijdenApp/AvansQuinn/ApplicationServices/obj/Debug/net6.0/ApplicationServices.AssemblyInfoInputs.cache
+/home/qrrv/Projects/School/2A-QuinnVerschoor - IVT2-1-MaaltijdenApp/AvansQuinn/ApplicationServices/obj/Debug/net6.0/ApplicationServices.AssemblyInfo.cs
+/home/qrrv/Projects/School/2A-QuinnVerschoor - IVT2-1-MaaltijdenApp/AvansQuinn/ApplicationServices/obj/Debug/net6.0/ApplicationServices.csproj.CoreCompileInputs.cache
+/home/qrrv/Projects/School/2A-QuinnVerschoor - IVT2-1-MaaltijdenApp/AvansQuinn/ApplicationServices/obj/Debug/net6.0/ApplicationServices.sourcelink.json
+/home/qrrv/Projects/School/2A-QuinnVerschoor - IVT2-1-MaaltijdenApp/AvansQuinn/ApplicationServices/obj/Debug/net6.0/ApplicationServices.dll
+/home/qrrv/Projects/School/2A-QuinnVerschoor - IVT2-1-MaaltijdenApp/AvansQuinn/ApplicationServices/obj/Debug/net6.0/refint/ApplicationServices.dll
+/home/qrrv/Projects/School/2A-QuinnVerschoor - IVT2-1-MaaltijdenApp/AvansQuinn/ApplicationServices/obj/Debug/net6.0/ApplicationServices.pdb
+/home/qrrv/Projects/School/2A-QuinnVerschoor - IVT2-1-MaaltijdenApp/AvansQuinn/ApplicationServices/obj/Debug/net6.0/ref/ApplicationServices.dll
+/home/qrrv/Projects/School/2A-QuinnVerschoor - IVT2-1-MaaltijdenApp/AvansQuinn/ApplicationServices/obj/Debug/net6.0/Applicat.7EB1A67E.Up2Date
+/home/qrrv/Projects/School/EcoMeal/ApplicationServices/bin/Debug/net6.0/ApplicationServices.deps.json
+/home/qrrv/Projects/School/EcoMeal/ApplicationServices/bin/Debug/net6.0/ApplicationServices.dll
+/home/qrrv/Projects/School/EcoMeal/ApplicationServices/bin/Debug/net6.0/ApplicationServices.pdb
+/home/qrrv/Projects/School/EcoMeal/ApplicationServices/bin/Debug/net6.0/Domain.dll
+/home/qrrv/Projects/School/EcoMeal/ApplicationServices/bin/Debug/net6.0/Domain.Services.dll
+/home/qrrv/Projects/School/EcoMeal/ApplicationServices/bin/Debug/net6.0/Domain.Services.pdb
+/home/qrrv/Projects/School/EcoMeal/ApplicationServices/bin/Debug/net6.0/Domain.pdb
+/home/qrrv/Projects/School/EcoMeal/ApplicationServices/obj/Debug/net6.0/ApplicationServices.csproj.AssemblyReference.cache
+/home/qrrv/Projects/School/EcoMeal/ApplicationServices/obj/Debug/net6.0/ApplicationServices.GeneratedMSBuildEditorConfig.editorconfig
+/home/qrrv/Projects/School/EcoMeal/ApplicationServices/obj/Debug/net6.0/ApplicationServices.AssemblyInfoInputs.cache
+/home/qrrv/Projects/School/EcoMeal/ApplicationServices/obj/Debug/net6.0/ApplicationServices.AssemblyInfo.cs
+/home/qrrv/Projects/School/EcoMeal/ApplicationServices/obj/Debug/net6.0/ApplicationServices.csproj.CoreCompileInputs.cache
+/home/qrrv/Projects/School/EcoMeal/ApplicationServices/obj/Debug/net6.0/ApplicationServices.sourcelink.json
+/home/qrrv/Projects/School/EcoMeal/ApplicationServices/obj/Debug/net6.0/Applicat.7EB1A67E.Up2Date
+/home/qrrv/Projects/School/EcoMeal/ApplicationServices/obj/Debug/net6.0/ApplicationServices.dll
+/home/qrrv/Projects/School/EcoMeal/ApplicationServices/obj/Debug/net6.0/refint/ApplicationServices.dll
+/home/qrrv/Projects/School/EcoMeal/ApplicationServices/obj/Debug/net6.0/ApplicationServices.pdb
+/home/qrrv/Projects/School/EcoMeal/ApplicationServices/obj/Debug/net6.0/ref/ApplicationServices.dll

@@ -1,0 +1,14 @@
+D:\School_Avans\Vakken\SSWF\AvansQuinn\MealBoxApp\bin\Debug\net6.0\MealBoxApp.deps.json
+D:\School_Avans\Vakken\SSWF\AvansQuinn\MealBoxApp\bin\Debug\net6.0\MealBoxApp.runtimeconfig.json
+D:\School_Avans\Vakken\SSWF\AvansQuinn\MealBoxApp\bin\Debug\net6.0\MealBoxApp.dll
+D:\School_Avans\Vakken\SSWF\AvansQuinn\MealBoxApp\bin\Debug\net6.0\MealBoxApp.pdb
+D:\School_Avans\Vakken\SSWF\AvansQuinn\MealBoxApp\obj\Debug\net6.0\MealBoxApp.csproj.AssemblyReference.cache
+D:\School_Avans\Vakken\SSWF\AvansQuinn\MealBoxApp\obj\Debug\net6.0\MealBoxApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\School_Avans\Vakken\SSWF\AvansQuinn\MealBoxApp\obj\Debug\net6.0\MealBoxApp.AssemblyInfoInputs.cache
+D:\School_Avans\Vakken\SSWF\AvansQuinn\MealBoxApp\obj\Debug\net6.0\MealBoxApp.AssemblyInfo.cs
+D:\School_Avans\Vakken\SSWF\AvansQuinn\MealBoxApp\obj\Debug\net6.0\MealBoxApp.csproj.CoreCompileInputs.cache
+D:\School_Avans\Vakken\SSWF\AvansQuinn\MealBoxApp\obj\Debug\net6.0\MealBoxApp.dll
+D:\School_Avans\Vakken\SSWF\AvansQuinn\MealBoxApp\obj\Debug\net6.0\refint\MealBoxApp.dll
+D:\School_Avans\Vakken\SSWF\AvansQuinn\MealBoxApp\obj\Debug\net6.0\MealBoxApp.pdb
+D:\School_Avans\Vakken\SSWF\AvansQuinn\MealBoxApp\obj\Debug\net6.0\MealBoxApp.genruntimeconfig.cache
+D:\School_Avans\Vakken\SSWF\AvansQuinn\MealBoxApp\obj\Debug\net6.0\ref\MealBoxApp.dll
