@@ -1,4 +1,4 @@
-# EcoMeal by QRRV
+# EcoMeal by [QRRV](https://github.com/qrrv)
 
 ## Overview
 EcoMealProd is a project aimed at reducing food waste in university canteens by offering meal boxes that canteen employees can prepare and students can purchase at a fair price. This initiative not only helps in minimizing food waste but also provides students with affordable meal options.
